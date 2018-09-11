@@ -107,3 +107,4 @@ def display_recommender_items(recommended_items):
     print(colored('❯ Recommended Items:', 'yellow'))
     for i in recommended_items:
         print(colored('  - ' + i, 'yellow'))
+    print('\n')

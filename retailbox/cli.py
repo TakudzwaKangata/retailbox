@@ -62,7 +62,7 @@ def main(customer, help, version, search, list, status, info):
 
                 else:
                     # Train a recommender system and return recommendations
-                    recommender(customer, status=True)
+                    recommender(customer, status=status)
 
 if __name__ == '__main__':
     main()
