@@ -105,7 +105,7 @@ Coded by:
 
 ## Contributing
 
-Contributions are always welcome! For bug reports or requests please submit an issue.
+Contributions are always welcome! For bug reports or requests please submit an issue..
 
 ## License
 
