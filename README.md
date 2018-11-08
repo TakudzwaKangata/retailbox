@@ -91,12 +91,6 @@ recommender(
 * [Python Pickle Module for saving Objects by serialization](https://pythonprogramming.net/python-pickle-module-save-objects-serialization/)
 * [Python Packaging from Init to Deploy](https://www.youtube.com/watch?v=4fzAMdLKC5k)
 
-## Team
-
-Coded by:
-
-* [Mohsin Baig](https://github.com/moebg)
-* [Shivank Mishra](https://github.com/shivankmishra)
 
 ## Attribution and Inspiration
 
